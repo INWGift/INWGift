@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @INWGift
-- 👀 I’m interested in Network&System automation
-- 🌱 I’m currently learning AWS/Azure/GCP and Automation tool to help my work in IT infra
+- 👀 I’m interested in Network&System automation to help my work in IT infra
+- 🌱 I’m currently learning AWS/Azure/GCP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
